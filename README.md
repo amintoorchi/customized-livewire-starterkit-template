@@ -14,7 +14,6 @@ This template includes a clean LTR interface, authentication, reusable UI compon
 * 🌓 Dark mode
 * 📱 Responsive layout
 * 🧱 Reusable Blade & Livewire components
-* 🧭 LTR layout
 * 🛠️ Developer-friendly structure
 * 🚀 Ready to customize and extend
 
