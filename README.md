@@ -1,4 +1,4 @@
-# Laravel Livewire Starter Kit — LTR
+# Customized Livewire Starterkit Template
 
 A customized and reusable Laravel Livewire Starter Kit designed as a solid starting point for building modern Laravel applications.
 
